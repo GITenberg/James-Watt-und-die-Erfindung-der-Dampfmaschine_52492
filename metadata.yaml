@@ -1,0 +1,24 @@
+_repo: James-Watt-und-die-Erfindung-der-Dampfmaschine_52492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biedenkapp, Georg
+    birthdate: 1868
+    gutenberg_agent_id: '46894'
+    url: http://www.gutenberg.org/2009/agents/46894
+description: ''
+gutenberg_issued: '2016-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52492'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Watt, James, 1736-1819'
+- !lcsh 'Steam-engines -- History'
+- GITenberg
+title: James Watt und die Erfindung der Dampfmaschine
+url: http://www.gutenberg.org/ebooks/52492
